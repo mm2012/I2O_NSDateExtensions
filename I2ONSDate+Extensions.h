@@ -28,6 +28,11 @@
  */
 
 
+//**  '[NSCalendar currentCalendar]' to used to get the user's preferred Calendar,
+// instead of using Gregorian calendar automatically.
+
+
+
 #import <Foundation/Foundation.h>
 
 @interface NSDate(Extensions)

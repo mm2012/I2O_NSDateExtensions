@@ -28,6 +28,10 @@
  */
 
 
+//**  '[NSCalendar currentCalendar]' to used to get the user's preferred Calendar,
+// instead of using Gregorian calendar automatically.
+
+
 #import "I2ONSDate+Extensions.h"
 
 @implementation NSDate (Extensions)
